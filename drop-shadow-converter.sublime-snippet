@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+box-shadow: drop-shadow-converter(${1:color}, \$angle: ${2:90}, \$distance: ${3:23}px, \$spread: ${4:0}, \$size: ${5:42}px, \$opacity: ${6:20}%);
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>drpshd</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
